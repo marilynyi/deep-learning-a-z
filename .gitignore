@@ -1,0 +1,7 @@
+Section*/
+*.pdf
+*.DS_Store
+*_DS_Store
+templates*/
+config/
+__pycache__*/
