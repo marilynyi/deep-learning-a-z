@@ -24,7 +24,7 @@ Jupyter Notebooks and Python files are personally written while .csv data files 
 - [Part 0 - Data Preprocessing](https://github.com/marilynyi/deep-learning-a-z/tree/main/00-data-preprocessing) 
 - [Part 1 - Artificial Neural Networks: Bank Customer Churn Analysis](https://github.com/marilynyi/deep-learning-a-z/tree/main/01-artificial-neural-networks) 
 - [Part 2 - Convolutional Neural Networks: Dog/Cat Classifier](https://github.com/marilynyi/deep-learning-a-z/tree/main/02-convolutional-neural-networks) 
-- Part 3 - Recurrent Neural Networks
+- [Part 3 - Recurrent Neural Networks: Google Stock Price Prediction](https://github.com/marilynyi/deep-learning-a-z/tree/main/03-recurrent-neural-networks)
 - Part 4 - Self-Organizing Maps
 - Part 5 - Boltzmann Machines
 - Part 6 - AutoEncoders
